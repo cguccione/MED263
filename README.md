@@ -46,7 +46,7 @@ This elective course will cover the latest advances in bioinformatics in the con
 
 ## Office Hours
 * TBA
-* If these hours don't work you, email to Caitlin (cguccion@ucsd.edu) to schdedule different hours, preferrably on Tuesdays and Thursdays.
+* If these hours don't work for you, send an email to Caitlin (cguccion@ucsd.edu) to schedule different hours, preferrably on Tuesdays and Thursdays.
 
 
 ## Homework
