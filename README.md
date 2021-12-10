@@ -25,7 +25,7 @@ This elective course will cover the latest advances in bioinformatics in the con
 | Week | Date                          | Topic                                            | Instructor |
 |------|-------------------------------|--------------------------------------------------|------------|
 | 1    | Tuesday  1/4  | Overview & Bootcamp part 1 (docker and linux)    | Dr. Kit Curtius (kcurtius@health.ucsd.edu) and Caitlin Guccione (cguccion@ucsd.edu) |
-| 1    | Thursday 1/6 | Bootcamp part 2 (conda, Jupyter notebok, and R)  | Dr. Kit Curtius (kcurtius@health.ucsd.edu) and Caitlin Guccione (cguccion@ucsd.edu) |
+| 1    | Thursday 1/6 | Bootcamp part 2 (conda, Jupyter notebook, and R)  | Dr. Kit Curtius (kcurtius@health.ucsd.edu) and Caitlin Guccione (cguccion@ucsd.edu) |
 | 2    | Tuesday  1/11 | Analysis of epigenetic data for precision cancer diagnosis lecture| Dr. Lukas Chavez (luc042@ucsd.edu)|
 | 2    | Thursday 1/13 |Analysis of epigenetic data for precision cancer diagnosis hands-on session | Dr. Lukas Chavez (luc042@ucsd.edu)|
 | 3    | Tuesday  1/18  | Human disease applications of transcriptomics lecture            | Dr. Katie Fisch (kfisch@ucsd.edu)|
@@ -42,8 +42,8 @@ This elective course will cover the latest advances in bioinformatics in the con
 | 8    | Thursday 2/24  | Chip-Seq hands-on session | Dr. Sven Heinz (sheinz@ucsd.edu)|
 | 9    | Tuesday  3/1  | Ethics, Privacy, and Policy lecture          | Dr. Cinnamon Bloss (cbloss@ucsd.edu) |
 | 9    | Thursday 3/3   | Office Hours for Project | Dr. Kit Curtius (kcurtius@health.ucsd.edu) and Caitlin Guccione (cguccion@ucsd.edu) |
-| 9    | Thursday 3/8   |Final Project Presentations | Students |
-| 9    | Thursday 3/10   | Final Project Presentations | Students |
+| 10    | Thursday 3/8   |Final Project Presentations | Students |
+| 10    | Thursday 3/10   | Final Project Presentations | Students |
 
 
 ## Office Hours
